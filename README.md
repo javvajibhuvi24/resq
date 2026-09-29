@@ -42,7 +42,7 @@ Traditional AI systems often process each incoming report with limited previous 
 
 ### Without Memory
 
-```text
+
 New Report
     ↓
 Analyze
@@ -50,7 +50,7 @@ Analyze
 Decision
 
 
-With Hindsight
+###With Hindsight
 
 New Report
     ↓
