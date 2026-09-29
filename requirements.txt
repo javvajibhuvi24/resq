@@ -1,0 +1,9 @@
+flask
+python-dotenv
+requests
+pydantic
+fastapi
+uvicorn
+python-dotenv
+requests
+pydantic
