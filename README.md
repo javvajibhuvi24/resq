@@ -50,7 +50,7 @@ Analyze
 Decision
 
 
-###With Hindsight
+### With Hindsight
 
 New Report
     ↓
