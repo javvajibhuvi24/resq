@@ -1,4 +1,3 @@
-# ResQ
 # RESQ — Real-Time Emergency Situation Intelligence
 
 RESQ transforms fragmented emergency reports into
